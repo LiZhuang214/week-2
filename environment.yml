@@ -8,7 +8,6 @@ dependencies:
   - matplotlib
   - altair
   - seaborn
-  - holoviews
   - vega_datasets
   - notebook
   - vega
