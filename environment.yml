@@ -1,0 +1,14 @@
+channels:
+  - defaults
+  - pyviz
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - altair
+  - seaborn
+  - holoviews
+  - vega_datasets
+  - notebook
+  - vega
