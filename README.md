@@ -1,4 +1,4 @@
-# Week 2: Data Visualization in Python
+# Week 2: Data Visualization Fundamentals
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-620-Spring-2019/week-2/master?filepath=lecture-2.ipynb)
 
